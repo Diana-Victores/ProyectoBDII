@@ -35,8 +35,3 @@ INSERT INTO empleado VALUES(5, '17087203C', 'Marcos', 'Loyola', 'Méndez', 5);
 INSERT INTO empleado VALUES(6, '38382980M', 'María', 'Santana', 'Moreno', 1);
 INSERT INTO empleado VALUES(7, '80576669X', 'Pilar', 'Ruiz', NULL, 2);
 INSERT INTO empleado VALUES(8, '71651431Z', 'Pepe', 'Ruiz', 'Santana', 3);
-INSERT INTO empleado VALUES(9, '56399183D', 'Juan', 'Gómez', 'López', 2);
-INSERT INTO empleado VALUES(10, '46384486H', 'Diego','Flores', 'Salas', 5);
-INSERT INTO empleado VALUES(11, '67389283A', 'Marta','Herrera', 'Gil', 1);
-INSERT INTO empleado VALUES(12, '41234836R', 'Irene','Salas', 'Flores', NULL);
-INSERT INTO empleado VALUES(13, '82635162B', 'Juan Antonio','Sáez', 'Guerrero', NULL);
